@@ -1,0 +1,6 @@
+echo "# -DOCTYPE-html-html-head-title-Horizontal-line-Example-title-head-body-p-This-" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/emacinch85/-DOCTYPE-html-html-head-title-Horizontal-line-Example-title-head-body-p-This-.git
+git push -u origin master
